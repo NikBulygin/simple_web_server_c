@@ -1,0 +1,21 @@
+#ifndef WEB_SERVER_SOCKET_H
+#define WEB_SERVER_SOCKET_H
+
+#include <stdlib.h>
+#include <string.h>
+#include <stdio.h>
+#include <unistd.h>
+#include <sys/types.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+
+#include "../../config/socket_config.h"
+#include "../http/http_parser.h"
+#include "../route/route.h"
+
+int create_socket(int port);
+
+void handle_connection_socket(int client_socket);
+void handle_api_request(HttpRequest *request, char *response);
+
+#endif // WEB_SERVER_SOCKET_H

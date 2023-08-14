@@ -1,0 +1,4117 @@
+start create a socket
+socker was createed
+get new api request
+
+get new api request
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/home/nik/Documents/C-simple_web_server/web_pages/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+
+get new api request
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+llo World</h1>
+</body>
+</html>
+
+get new api request
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/home/nik/Documents/C-simple_web_server/web_pages/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+
+get new api request
+HTTP/1.1 400 BAD REQUEST
+Content-Type: text/plain
+
+Bad Request
+get new api request
+HTTP/1.1 404 NOT FOUND
+Content-Type: text/plain
+
+Not Found
+start create a socket
+socker was createed
+get new api request
+GET
+/some_page/some_page.html
+
+get new api request
+GET
+/some_page/some_page.html
+HTTP/1.1 404 NOT FOUND
+Content-Type: text/plain
+
+Not Found
+start create a socket
+socket was createed
+get new api request
+GET
+/some_page/some_page.html
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test page</title>
+</head>
+<body>
+    <h1>Test page</h1>
+</body>
+</html>
+
+get new api request
+GET
+/web_pages/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="web_pages/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+
+get new api request
+GET
+/
+HTTP/1.1 404 NOT FOUND
+Content-Type: text/plain
+
+Not Found
+get new api request
+GET
+/home/nik/Documents/C-simple_web_server/web_pages/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/home/nik/Documents/C-simple_web_server/web_pages/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+
+get new api request
+GET
+/
+HTTP/1.1 404 NOT FOUND
+Content-Type: text/plain
+
+Not Found
+get new api request
+GET
+/home/nik/Documents/C-simple_web_server/web_pages/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/home/nik/Documents/C-simple_web_server/web_pages/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+
+get new api request
+GET
+/
+HTTP/1.1 404 NOT FOUND
+Content-Type: text/plain
+
+Not Found
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+llo World</h1>
+</body>
+</html>
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+align: center;
+}
+
+llo World</h1>
+</body>
+</html>
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+llo World</h1>
+</body>
+</html>
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+align: center;
+}
+
+llo World</h1>
+</body>
+</html>
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+llo World</h1>
+</body>
+</html>
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+align: center;
+}
+
+llo World</h1>
+</body>
+</html>
+
+get new api request
+GET
+/some_page/some_page
+HTTP/1.1 400 BAD REQUEST
+Content-Type: text/plain
+
+Bad Request
+get new api request
+GET
+/some_page/some_page.html
+HTTP/1.1 404 NOT FOUND
+Content-Type: text/plain
+
+Not Found
+get new api request
+GET
+/some_page
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test page</title>
+</head>
+<body>
+    <h1>Test page</h1>
+</body>
+</html>
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+llo World</h1>
+</body>
+</html>
+
+start create a socket
+socket was createed
+start create a socket
+socket was created
+start create a socket
+socket was created
+get new api request
+GET
+/
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+
+get new api request
+GET
+/some_page/some_page.html
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test page</title>
+</head>
+<body>
+    <h1>Test page</h1>
+</body>
+</html>
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+align: center;
+}
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+align: center;
+}
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+align: center;
+}
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+align: center;
+}
+
+
+get new api request
+GET
+/favicon.ico
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+get new api request
+GET
+/
+HTTP/1.1 404 NOT FOUND
+Content-Type: text/plain
+
+Not Found
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+align: center;
+}
+
+
+get new api request
+GET
+/some_page/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+get new api request
+GET
+/some_page/some_page.html
+HTTP/1.1 404 NOT FOUND
+Content-Type: text/plain
+
+Not Found
+get new api request
+GET
+/some_page/some_page.html
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test page</title>
+</head>
+<body>
+    <h1>Test page</h1>
+</body>
+</html>
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+start create a socket
+socket was created
+start create a socket
+socket was created
+get new api request
+GET
+/
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+align: center;
+}
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+align: center;
+}
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+align: center;
+}
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+start create a socket
+socket was created
+get new api request
+GET
+/
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+align: center;
+}
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+align: center;
+}
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+align: center;
+}
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+align: center;
+}
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+align: center;
+}
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+align: center;
+}
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+align: center;
+}
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+align: center;
+}
+
+
+start create a socket
+socket was created
+start create a socket
+socket was created
+start create a socket
+socket was created
+start create a socket
+socket was created
+start create a socket
+socket was created
+get new api request
+GET
+/
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+
+get new api request
+GET
+/favicon.ico
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+get new api request
+GET
+/
+HTTP/1.1 404 NOT FOUND
+Content-Type: text/plain
+
+Not Found
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+align: center;
+}
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+align: center;
+}
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: white;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px; 
+    text-align: center;
+}
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+align: center;
+}
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+/* body { */
+/*     font-family: Arial, sans-serif; */
+/*     display: flex; */
+/*     justify-content: center; */
+/*     align-items: center; */
+/*     height: 100vh; */
+/*     margin: 0; */
+/*     background: linear-gradient(45deg, #f3ec78, #af4261); */
+/*     color: white; */
+/* } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+ } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+/* body { */
+/*     font-family: Arial, sans-serif; */
+/*     display: flex; */
+/*     justify-content: center; */
+/*     align-items: center; */
+/*     height: 100vh; */
+/*     margin: 0; */
+/*     background: linear-gradient(45deg, #f3ec78, #af4261); */
+/*     color: white; */
+/* } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+ } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+/* body { */
+/*     font-family: Arial, sans-serif; */
+/*     display: flex; */
+/*     justify-content: center; */
+/*     align-items: center; */
+/*     height: 100vh; */
+/*     margin: 0; */
+/*     background: linear-gradient(45deg, #f3ec78, #af4261); */
+/*     color: white; */
+/* } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+ } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+/* body { */
+/*     font-family: Arial, sans-serif; */
+/*     display: flex; */
+/*     justify-content: center; */
+/*     align-items: center; */
+/*     height: 100vh; */
+/*     margin: 0; */
+/*     background: linear-gradient(45deg, #f3ec78, #af4261); */
+/*     color: white; */
+/* } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+ } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+/* body { */
+/*     font-family: Arial, sans-serif; */
+/*     display: flex; */
+/*     justify-content: center; */
+/*     align-items: center; */
+/*     height: 100vh; */
+/*     margin: 0; */
+/*     background: linear-gradient(45deg, #f3ec78, #af4261); */
+/*     color: white; */
+/* } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+ } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+/* body { */
+/*     font-family: Arial, sans-serif; */
+/*     display: flex; */
+/*     justify-content: center; */
+/*     align-items: center; */
+/*     height: 100vh; */
+/*     margin: 0; */
+/*     background: linear-gradient(45deg, #f3ec78, #af4261); */
+/*     color: white; */
+/* } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+ } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+/* body { */
+/*     font-family: Arial, sans-serif; */
+/*     display: flex; */
+/*     justify-content: center; */
+/*     align-items: center; */
+/*     height: 100vh; */
+/*     margin: 0; */
+/*     background: linear-gradient(45deg, #f3ec78, #af4261); */
+/*     color: white; */
+/* } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+ } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+/* body { */
+/*     font-family: Arial, sans-serif; */
+/*     display: flex; */
+/*     justify-content: center; */
+/*     align-items: center; */
+/*     height: 100vh; */
+/*     margin: 0; */
+/*     background: linear-gradient(45deg, #f3ec78, #af4261); */
+/*     color: white; */
+/* } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+ } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+/* body { */
+/*     font-family: Arial, sans-serif; */
+/*     display: flex; */
+/*     justify-content: center; */
+/*     align-items: center; */
+/*     height: 100vh; */
+/*     margin: 0; */
+/*     background: linear-gradient(45deg, #f3ec78, #af4261); */
+/*     color: white; */
+/* } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+ } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/index/style.css
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+/* body { */
+/*     font-family: Arial, sans-serif; */
+/*     display: flex; */
+/*     justify-content: center; */
+/*     align-items: center; */
+/*     height: 100vh; */
+/*     margin: 0; */
+/*     background: linear-gradient(45deg, #f3ec78, #af4261); */
+/*     color: white; */
+/* } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+ } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/
+HTTP/1.1 400 BAD REQUEST
+Content-Type: text/plain
+
+Bad Request
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+ } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+/* body { */
+/*     font-family: Arial, sans-serif; */
+/*     display: flex; */
+/*     justify-content: center; */
+/*     align-items: center; */
+/*     height: 100vh; */
+/*     margin: 0; */
+/*     background: linear-gradient(45deg, #f3ec78, #af4261); */
+/*     color: white; */
+/* } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+ } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+/* body { */
+/*     font-family: Arial, sans-serif; */
+/*     display: flex; */
+/*     justify-content: center; */
+/*     align-items: center; */
+/*     height: 100vh; */
+/*     margin: 0; */
+/*     background: linear-gradient(45deg, #f3ec78, #af4261); */
+/*     color: white; */
+/* } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+ } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+/* body { */
+/*     font-family: Arial, sans-serif; */
+/*     display: flex; */
+/*     justify-content: center; */
+/*     align-items: center; */
+/*     height: 100vh; */
+/*     margin: 0; */
+/*     background: linear-gradient(45deg, #f3ec78, #af4261); */
+/*     color: white; */
+/* } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+ } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+/* body { */
+/*     font-family: Arial, sans-serif; */
+/*     display: flex; */
+/*     justify-content: center; */
+/*     align-items: center; */
+/*     height: 100vh; */
+/*     margin: 0; */
+/*     background: linear-gradient(45deg, #f3ec78, #af4261); */
+/*     color: white; */
+/* } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+ } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 40px;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 40px;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 40px;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 40px;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 40px;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 40px;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 40px;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+get new api request
+GET
+/index/styles.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/styles.css">
+    <script src="/index/script.js" defer></script>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <form id="helloForm">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Say Hello</button>
+    </form>
+    <p id="greeting"></p>
+</body>
+</html>
+  background: #0056b3;
+}
+
+get new api request
+GET
+/index/script.js
+HTTP/1.1 404 NOT FOUND
+Content-Type: text/plain
+
+Not Found
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: application/javascript
+
+document.getElementById("helloForm").addEventListener("submit", function (event) {
+    event.preventDefault();
+
+    var name = document.getElementById("name").value;
+    var greeting = "Hello, " + name + "!";
+    
+    document.getElementById("greeting").textContent = greeting;
+});
+ <h1>Hello World</h1>
+    <form id="helloForm">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Say Hello</button>
+    </form>
+    <p id="greeting"></p>
+</body>
+</html>
+  background: #0056b3;
+}
+
+get new api request
+GET
+/index/styles.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/styles.css">
+    <script src="/index/script.js" defer></script>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <form id="helloForm">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Say Hello</button>
+    </form>
+    <p id="greeting"></p>
+</body>
+</html>
+  background: #0056b3;
+}
+
+get new api request
+GET
+/index/script.js
+HTTP/1.1 404 NOT FOUND
+Content-Type: text/plain
+
+Not Found
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: application/javascript
+
+document.getElementById("helloForm").addEventListener("submit", function (event) {
+    event.preventDefault();
+
+    var name = document.getElementById("name").value;
+    var greeting = "Hello, " + name + "!";
+    
+    document.getElementById("greeting").textContent = greeting;
+});
+ <h1>Hello World</h1>
+    <form id="helloForm">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Say Hello</button>
+    </form>
+    <p id="greeting"></p>
+</body>
+</html>
+  background: #0056b3;
+}
+
+get new api request
+GET
+/index/styles.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/styles.css">
+    <script src="/index/script.js" defer></script>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <form id="helloForm">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Say Hello</button>
+    </form>
+    <p id="greeting"></p>
+</body>
+</html>
+  background: #0056b3;
+}
+
+get new api request
+GET
+/index/script.js
+HTTP/1.1 404 NOT FOUND
+Content-Type: text/plain
+
+Not Found
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: application/javascript
+
+document.getElementById("helloForm").addEventListener("submit", function (event) {
+    event.preventDefault();
+
+    var name = document.getElementById("name").value;
+    var greeting = "Hello, " + name + "!";
+    
+    document.getElementById("greeting").textContent = greeting;
+});
+ <h1>Hello World</h1>
+    <form id="helloForm">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Say Hello</button>
+    </form>
+    <p id="greeting"></p>
+</body>
+</html>
+  background: #0056b3;
+}
+
+get new api request
+GET
+/index/styles.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/styles.css">
+    <script src="/index/script.js" defer></script>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <form id="helloForm">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Say Hello</button>
+    </form>
+    <p id="greeting"></p>
+</body>
+</html>
+  background: #0056b3;
+}
+
+get new api request
+GET
+/index/script.js
+HTTP/1.1 404 NOT FOUND
+Content-Type: text/plain
+
+Not Found
+get new api request
+GET
+/?name=test
+HTTP/1.1 200 OK
+Content-Type: application/javascript
+
+document.getElementById("helloForm").addEventListener("submit", function (event) {
+    event.preventDefault();
+
+    var name = document.getElementById("name").value;
+    var greeting = "Hello, " + name + "!";
+    
+    document.getElementById("greeting").textContent = greeting;
+});
+ <h1>Hello World</h1>
+    <form id="helloForm">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Say Hello</button>
+    </form>
+    <p id="greeting"></p>
+</body>
+</html>
+  background: #0056b3;
+}
+
+get new api request
+GET
+/
+HTTP/1.1 404 NOT FOUND
+Content-Type: text/plain
+
+Not Found
+get new api request
+GET
+/index/styles.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/styles.css">
+    <script src="/index/script.js" defer></script>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <form id="helloForm">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Say Hello</button>
+    </form>
+    <p id="greeting"></p>
+</body>
+</html>
+  background: #0056b3;
+}
+
+get new api request
+GET
+/index/script.js
+HTTP/1.1 404 NOT FOUND
+Content-Type: text/plain
+
+Not Found
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+/* body { */
+/*     font-family: Arial, sans-serif; */
+/*     display: flex; */
+/*     justify-content: center; */
+/*     align-items: center; */
+/*     height: 100vh; */
+/*     margin: 0; */
+/*     background: linear-gradient(45deg, #f3ec78, #af4261); */
+/*     color: white; */
+/* } */
+
+/* h1 { */
+/*     color: blue; */
+/*     font-size: 24px;  */
+/*     text-align: center; */
+/* } */
+
+
+get new api request
+GET
+/index/styles.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/styles.css">
+    <script src="/index/script.js" defer></script>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <form id="helloForm">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Say Hello</button>
+    </form>
+    <p id="greeting"></p>
+</body>
+</html>
+
+get new api request
+GET
+/index/script.js
+HTTP/1.1 404 NOT FOUND
+Content-Type: text/plain
+
+Not Found
+get new api request
+GET
+/index/styles.css
+HTTP/1.1 200 OK
+Content-Type: application/javascript
+
+document.getElementById("helloForm").addEventListener("submit", function (event) {
+    event.preventDefault();
+
+    var name = document.getElementById("name").value;
+    var greeting = "Hello, " + name + "!";
+    
+    document.getElementById("greeting").textContent = greeting;
+});
+ <h1>Hello World</h1>
+    <form id="helloForm">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Say Hello</button>
+    </form>
+    <p id="greeting"></p>
+</body>
+</html>
+
+get new api request
+GET
+/index/script.js
+HTTP/1.1 404 NOT FOUND
+Content-Type: text/plain
+
+Not Found
+get new api request
+GET
+/
+HTTP/1.1 400 BAD REQUEST
+Content-Type: text/plain
+
+Bad Request
+get new api request
+GET
+/index/styles.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/styles.css">
+    <script src="/index/script.js" defer></script>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <form id="helloForm">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Say Hello</button>
+    </form>
+    <p id="greeting"></p>
+</body>
+</html>
+  background: #0056b3;
+}
+
+get new api request
+GET
+/index/script.js
+HTTP/1.1 404 NOT FOUND
+Content-Type: text/plain
+
+Not Found
+get new api request
+GET
+/index/styles.css
+HTTP/1.1 200 OK
+Content-Type: application/javascript
+
+document.getElementById("helloForm").addEventListener("submit", function (event) {
+    event.preventDefault();
+
+    var name = document.getElementById("name").value;
+    var greeting = "Hello, " + name + "!";
+    
+    document.getElementById("greeting").textContent = greeting;
+});
+ <h1>Hello World</h1>
+    <form id="helloForm">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Say Hello</button>
+    </form>
+    <p id="greeting"></p>
+</body>
+</html>
+
+get new api request
+GET
+/index/styles.css
+HTTP/1.1 404 NOT FOUND
+Content-Type: text/plain
+
+Not Found
+get new api request
+GET
+/index/script.js
+HTTP/1.1 404 NOT FOUND
+Content-Type: text/plain
+
+Not Found
+get new api request
+GET
+/
+HTTP/1.1 400 BAD REQUEST
+Content-Type: text/plain
+
+Bad Request
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+    <script src="/index/script.js" defer></script>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <form id="helloForm">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Say Hello</button>
+    </form>
+    <p id="greeting"></p>
+</body>
+</html>
+
+  background: #0056b3;
+}
+
+get new api request
+GET
+/index/script.js
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 40px;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: application/javascript
+
+document.getElementById("helloForm").addEventListener("submit", function (event) {
+    event.preventDefault();
+
+    var name = document.getElementById("name").value;
+    var greeting = "Hello, " + name + "!";
+    
+    document.getElementById("greeting").textContent = greeting;
+});
+%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+    <script src="/index/script.js" defer></script>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <form id="helloForm">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Say Hello</button>
+    </form>
+    <p id="greeting"></p>
+</body>
+</html>
+   background: #0056b3;
+}
+
+get new api request
+GET
+/index/script.js
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 40px;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: application/javascript
+
+document.getElementById("helloForm").addEventListener("submit", function (event) {
+    event.preventDefault();
+
+    var name = document.getElementById("name").value;
+    var greeting = "Hello, " + name + "!";
+    
+    document.getElementById("greeting").textContent = greeting;
+});
+ <h1>Hello World</h1>
+    <form id="helloForm">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Say Hello</button>
+    </form>
+    <p id="greeting"></p>
+</body>
+</html>
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+    <script src="/index/script.js" defer></script>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <form id="helloForm">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Say Hello</button>
+    </form>
+    <p id="greeting"></p>
+</body>
+</html>
+
+
+get new api request
+GET
+/index/script.js
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: application/javascript
+
+document.getElementById("helloForm").addEventListener("submit", function (event) {
+    event.preventDefault();
+
+    var name = document.getElementById("name").value;
+    var greeting = "Hello, " + name + "!";
+    
+    document.getElementById("greeting").textContent = greeting;
+});
+
+get new api request
+GET
+/index/script.js
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 40px;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+get new api request
+GET
+/
+HTTP/1.1 400 BAD REQUEST
+Content-Type: text/plain
+
+Bad Request
+get new api request
+GET
+/index/script.js
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+    <script src="/index/script.js" defer></script>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <form id="helloForm">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Say Hello</button>
+    </form>
+    <p id="greeting"></p>
+</body>
+</html>
+   background: #0056b3;
+}
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: application/javascript
+
+document.getElementById("helloForm").addEventListener("submit", function (event) {
+    event.preventDefault();
+
+    var name = document.getElementById("name").value;
+    var greeting = "Hello, " + name + "!";
+    
+    document.getElementById("greeting").textContent = greeting;
+});
+<h1>Hello World</h1>
+    <form id="helloForm">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Say Hello</button>
+    </form>
+    <p id="greeting"></p>
+</body>
+</html>
+   background: #0056b3;
+}
+
+get new api request
+GET
+/
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 40px;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+    <script src="/index/script.js" defer></script>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <form id="helloForm">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Say Hello</button>
+    </form>
+    <p id="greeting"></p>
+</body>
+</html>
+   background: #0056b3;
+}
+
+get new api request
+GET
+/index/script.js
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 40px;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+get new api request
+GET
+/favicon.ico
+HTTP/1.1 200 OK
+Content-Type: application/javascript
+
+document.getElementById("helloForm").addEventListener("submit", function (event) {
+    event.preventDefault();
+
+    var name = document.getElementById("name").value;
+    var greeting = "Hello, " + name + "!";
+    
+    document.getElementById("greeting").textContent = greeting;
+});
+%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+get new api request
+GET
+/
+HTTP/1.1 404 NOT FOUND
+Content-Type: text/plain
+
+Not Found
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+    <script src="/index/script.js" defer></script>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <form id="helloForm">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Say Hello</button>
+    </form>
+    <p id="greeting"></p>
+</body>
+</html>
+   background: #0056b3;
+}
+
+get new api request
+GET
+/index/script.js
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 40px;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+get new api request
+GET
+/favicon.ico
+HTTP/1.1 200 OK
+Content-Type: application/javascript
+
+document.getElementById("helloForm").addEventListener("submit", function (event) {
+    event.preventDefault();
+
+    var name = document.getElementById("name").value;
+    var greeting = "Hello, " + name + "!";
+    
+    document.getElementById("greeting").textContent = greeting;
+});
+%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+get new api request
+GET
+/
+HTTP/1.1 404 NOT FOUND
+Content-Type: text/plain
+
+Not Found
+get new api request
+GET
+/index/style.css
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="/index/style.css">
+    <script src="/index/script.js" defer></script>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <form id="helloForm">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Say Hello</button>
+    </form>
+    <p id="greeting"></p>
+</body>
+</html>
+   background: #0056b3;
+}
+
+get new api request
+GET
+/index/script.js
+HTTP/1.1 200 OK
+Content-Type: application/javascript
+
+document.getElementById("helloForm").addEventListener("submit", function (event) {
+    event.preventDefault();
+
+    var name = document.getElementById("name").value;
+    var greeting = "Hello, " + name + "!";
+    
+    document.getElementById("greeting").textContent = greeting;
+});
+%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+start create a socket
+socket was created
+get new api request
+GET
+/
+
+get new api request
+GET
+/index/style.css
+
+get new api request
+GET
+/index/script.js
+
+get new api request
+GET
+/
+
+get new api request
+GET
+/index/style.css
+
+get new api request
+GET
+/index/script.js
+
+get new api request
+GET
+/
+
+get new api request
+GET
+/index/style.css
+
+get new api request
+GET
+/index/script.js
+
+get new api request
+GET
+/
+
+get new api request
+GET
+/index/style.css
+
+get new api request
+GET
+/index/script.js
+
+get new api request
+GET
+/
+
+get new api request
+GET
+/index/style.css
+
+get new api request
+GET
+/index/script.js
+
